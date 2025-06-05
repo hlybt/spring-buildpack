@@ -6,7 +6,7 @@ There are ways for developers to package an application into a container image.
 
 Creating a dockerfile seems like a very straightforward solution at first blush. However, writing a dockerfile manually adds extra workload such as image configuration, dependency management, etc. It becomes increasingly complex and error-prone.
 
-Docker images can be built directly from your Maven or Gradle plugin using Cloud Native Buildpacks. 
+Docker images can be built directly from your Maven or Gradle plugin using **Cloud Native Buildpacks**. 
 
 To achieve this: 
 
